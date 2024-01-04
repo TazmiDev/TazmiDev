@@ -1,4 +1,4 @@
-### Hi there, I'm TazmiDev 👋 [![GitHub Badge](https://img.shields.io/github/followers/TazmiDev?label=Follow&style=social)](https://github.com/TazmiDev)![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet)
+### Hi there, I'm TazmiDev 👋 [![GitHub Badge](https://img.shields.io/github/followers/TazmiDev?label=Follow&style=social)](https://github.com/TazmiDev)  ![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet)
 
  ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
 
