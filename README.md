@@ -37,33 +37,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet)
 
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/typistjs/0.3.0/typist.css">
-</head>
-<body>
-  <div align="center">
-    <h2><span style="color: #ff6f00;">Welcome</span> to my GitHub page!</h2>
-    <h3>I'm a passionate developer with expertise in Java, Python, Linux, and more.</h3>
-    <p class="typed-text">Feel free to connect with me and explore my projects. Let's collaborate and learn together!</p>
-  </div>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/typistjs/0.3.0/typist.min.js"></script>
-  <script>
-    const typist = new Typist('.typed-text', {
-      letterInterval: 80, // 每个字母之间的间隔（以毫秒为单位）
-      textInterval: 2000, // 文本之间的间隔（以毫秒为单位）
-    });
-
-    typist
-      .type('Feel free to connect with me and explore my projects.')
-      .pause(1000)
-      .type(' Let\'s collaborate and learn together!')
-      .start();
-  </script>
-</body>
-</html>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/33LC84JgLvK2KuW43MfaNq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <!--
 **TazmiDev/TazmiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
