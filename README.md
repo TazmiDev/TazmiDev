@@ -1,4 +1,4 @@
-### Hi there, I'm TazmiDev 👋 [![GitHub Badge](https://img.shields.io/github/followers/TazmiDev?label=Follow&style=social)](https://github.com/TazmiDev)
+### Hi there, I'm TazmiDev 👋 [![GitHub Badge](https://img.shields.io/github/followers/TazmiDev?label=Follow&style=social)](https://github.com/TazmiDev)![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet)
 
  ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
 
@@ -32,7 +32,9 @@
 
 ⭐️ You can reach me at [tazmimayin@gmail.com](mailto:tazmimayin@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **TazmiDev/TazmiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
