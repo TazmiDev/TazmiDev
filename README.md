@@ -1,6 +1,6 @@
 ### Hi there, I'm TazmiDev 👋 [![GitHub Badge](https://img.shields.io/github/followers/TazmiDev?label=Follow&style=social)](https://github.com/TazmiDev)
 
- ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+ ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
 
 ## ✨ I'm a Java Developer, Python Enthusiast, and Linux User!
 
