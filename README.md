@@ -2,17 +2,13 @@
 
  ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
 
-## I'm a Java Developer, Python Enthusiast, and Linux User!
+## ✨ I'm a Java Developer, Python Enthusiast, and Linux User!
 
 - 🔭 I’m currently working on a [Eipher-ENG](https://github.com/TazmiDev/Eipher-ENG)!
 - 🌱 I’m currently learning everything about Python 🐍
 - 👯 I’m looking to collaborate with other developers on open source projects
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new Linux distributions and customize my desktop environment
-
-## ✨ Projects I'm proud of
-- Project 1: [Eipher-ENG](https://github.com/TazmiDev/Eipher-ENG)
-- Project 2: [DevEnv](https://github.com/TazmiDev/DevEnv)
 
 ### Languages and Tools:
 
