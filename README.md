@@ -31,13 +31,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 721 Bytes Used in GitHub's Storage 
+> 📦 745 Bytes Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2024
+> 🏆 17 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -54,7 +54,9 @@ Shell                    1 repo              ██████░░░░░�
 ```
 
 
- Last Updated on 04/01/2024 04:13:28 UTC
+
+
+ Last Updated on 04/01/2024 18:34:10 UTC
 <!--END_SECTION:waka-->
 
 ⭐️ You can reach me at [tazmimayin@gmail.com](mailto:tazmimayin@gmail.com)
