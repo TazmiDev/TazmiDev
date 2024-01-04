@@ -35,9 +35,7 @@
 
 ⭐️ You can reach me at [tazmimayin@gmail.com](mailto:tazmimayin@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet)
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/33LC84JgLvK2KuW43MfaNq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet) ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
 <!--
 **TazmiDev/TazmiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
