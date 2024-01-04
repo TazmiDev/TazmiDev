@@ -30,8 +30,6 @@
 
 ---
 
-⭐️ You can reach me at [tazmimayin@gmail.com](mailto:tazmimayin@gmail.com)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,10 +54,10 @@ Shell                    1 repo              ██████░░░░░�
 ```
 
 
-
-
  Last Updated on 04/01/2024 04:13:28 UTC
 <!--END_SECTION:waka-->
+
+⭐️ You can reach me at [tazmimayin@gmail.com](mailto:tazmimayin@gmail.com)
 
 <!--
 **TazmiDev/TazmiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
