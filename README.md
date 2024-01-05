@@ -31,6 +31,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
 
 **🐱 My GitHub Data** 
@@ -45,6 +47,45 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                12 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌆 Daytime                24 commits          █████████████████░░░░░░░░   66.67 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Wednesday                7 commits           █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Thursday                 16 commits          ███████████░░░░░░░░░░░░░░   44.44 % 
+Friday                   12 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -56,7 +97,7 @@ Shell                    1 repo              ██████░░░░░�
 
 
 
- Last Updated on 04/01/2024 18:34:10 UTC
+ Last Updated on 05/01/2024 18:33:22 UTC
 <!--END_SECTION:waka-->
 
 ⭐️ You can reach me at [tazmimayin@gmail.com](mailto:tazmimayin@gmail.com)
