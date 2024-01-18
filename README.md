@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -97,7 +97,7 @@ Shell                    1 repo              ██████░░░░░�
 
 
 
- Last Updated on 17/01/2024 18:34:55 UTC
+ Last Updated on 18/01/2024 18:35:12 UTC
 <!--END_SECTION:waka-->
 
 ⭐️ You can reach me at [tazmimayin@gmail.com](mailto:tazmimayin@gmail.com)
