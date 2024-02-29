@@ -11,9 +11,7 @@
 - 👯 I’m looking to collaborate with other developers on open source projects
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new Linux distributions and customize my desktop environment
-
 <br />
-
 ---
 
 <!--START_SECTION:waka-->
