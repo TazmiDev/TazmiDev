@@ -1,8 +1,9 @@
 ### ✨ Hi there, I'm TazmiDev 👋
 
- <a href="https://github.com/LasCC">
+ <a href="https://github.com/TazmiDev">
       <img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" align="center" />
  </a>
+
  ![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet)</br>
  ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=TazmiDev&show_icons=true&theme=radical)
 
