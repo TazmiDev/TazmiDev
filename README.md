@@ -1,6 +1,5 @@
 ### ✨ Hi there, I'm TazmiDev 👋
 
- [![GitHub Badge](https://img.shields.io/github/followers/TazmiDev?label=Follow&style=social)](https://github.com/TazmiDev)</br>
  ![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet)</br>
  ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=TazmiDev&show_icons=true&theme=radical)
 
