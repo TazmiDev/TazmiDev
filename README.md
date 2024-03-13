@@ -1,6 +1,9 @@
 ### ✨ Hi there, I'm TazmiDev 👋
 
- ![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet)</br>
+ <a href="https://github.com/LasCC">
+      <img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" align="center" />
+      ![Profile Views](https://komarev.com/ghpvc/?username=tazmimayin&color=blueviolet)</br>
+ </a>
  ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=TazmiDev&show_icons=true&theme=radical)
 
 ## ✨ I'm a Java Developer, Python Enthusiast, and Linux User!
