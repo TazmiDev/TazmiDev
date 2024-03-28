@@ -26,8 +26,6 @@
 
 > 📦 2.7 kB Used in GitHub's Storage 
  > 
-> 🏆 35 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 18 Public Repositories 
@@ -85,7 +83,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 27/03/2024 18:32:51 UTC
+ Last Updated on 28/03/2024 18:32:43 UTC
 <!--END_SECTION:waka-->
 
 ⭐️ You can reach me at [tazmimayin@gmail.com](mailto:tazmimayin@gmail.com)
