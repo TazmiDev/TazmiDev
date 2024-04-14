@@ -18,8 +18,6 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -83,7 +81,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 18:32:32 UTC
+ Last Updated on 14/04/2024 22:57:50 UTC
 <!--END_SECTION:waka-->
 
 ⭐️ You can reach me at [tazmimayin@gmail.com](mailto:tazmimayin@gmail.com)
