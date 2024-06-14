@@ -26,6 +26,8 @@
 
 > 📦 3.4 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -82,7 +84,7 @@ Shell                    1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/06/2024 18:37:34 UTC
+ Last Updated on 14/06/2024 18:37:26 UTC
 <!--END_SECTION:waka-->
 
 ⭐️ You can reach me at [tazmimayin@gmail.com](mailto:tazmimayin@gmail.com)
