@@ -9,7 +9,7 @@
 
 ## ✨ I'm a Java Developer, Python Enthusiast, and Linux User!
 
-- 🔭 I’m currently working on a [Eipher-ENG](https://github.com/TazmiDev/Eipher-ENG)!
+- 🔭 I’m currently working on a [DevEnv](https://github.com/TazmiDev/DevEnv)!
 - 🌱 I’m currently learning everything about Python 🐍
 - 👯 I’m looking to collaborate with other developers on open source projects
 - 🥅 2024 Goals: Contribute more to Open Source projects
