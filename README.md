@@ -3,9 +3,9 @@
 <a href="https://github.com/TazmiDev">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TazmiDev&theme=tokyonight" />
 </a>
-<a href="https://github.com/TazmiDev">
+<!-- <a href="https://github.com/TazmiDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TazmiDev&show_icons=true&theme=tokyonight" />
-</a>
+</a> -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TazmiDev&theme=tokyonight)](https://github.com/TazmiDev) -->
 
