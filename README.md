@@ -25,6 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazmiDev&theme=tokyonight&layout=compact)](https://github.com/TazmiDev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TazmiDev&theme=tokyonight&column=-1)](https://github.com/TazmiDev)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=TazmiDev&theme=tokyonight&column=-1)](https://github.com/TazmiDev) -->
 
 ⭐️ You can reach me at [My Google Email](mailto:tazmimayin@gmail.com) !
