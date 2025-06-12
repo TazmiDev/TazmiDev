@@ -16,9 +16,9 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TazmiDev&repo=DevEnv&theme=tokyonight)](https://github.com/TazmiDev/DevEnv) -->
 ## ✨ I'm a Java Developer, Python Enthusiast, and Linux User!
 
-<!-- - 🔭 I’m currently working on a [RsAbC](https://github.com/TazmiDev/RsAbC)! -->
+- 🔭 I’m currently working on a [Squirrel](https://github.com/2337761309/Squirrel)!
 - 👯 I’m looking to collaborate with other developers on open source projects
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new Linux distributions and customize my desktop environmen
 
 ## ✨ Popular language
