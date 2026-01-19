@@ -16,7 +16,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TazmiDev&repo=DevEnv&theme=tokyonight)](https://github.com/TazmiDev/DevEnv) -->
 ## ✨ I'm a Java Developer, Python Enthusiast, and Linux User!
 
-- 🔭 I’m currently working on a [csic2010-Security-Model](git clone https://github.com/TazmiDev/csic2010-Security-Model)!
+- 🔭 I’m currently working on a [csic2010-Security-Model](https://github.com/TazmiDev/csic2010-Security-Model)!
 - 👯 I’m looking to collaborate with other developers on open source projects
 - 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new Linux distributions and customize my desktop environmen
