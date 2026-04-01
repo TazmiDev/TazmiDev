@@ -21,9 +21,9 @@
 - 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to explore new Linux distributions and customize my desktop environmen
 
-## ✨ Popular language
+<!-- ## ✨ Popular language -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazmiDev&theme=tokyonight&layout=compact)](https://github.com/TazmiDev)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TazmiDev&theme=tokyonight&layout=compact)](https://github.com/TazmiDev) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=TazmiDev&theme=tokyonight&column=-1)](https://github.com/TazmiDev) -->
 
