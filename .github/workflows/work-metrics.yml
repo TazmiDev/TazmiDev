@@ -36,5 +36,3 @@ jobs:
           plugin_followup_sections: repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_projects: yes
-          plugin_projects_limit: 4
