@@ -31,8 +31,9 @@ jobs:
           config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_archived: yes
-          plugin_followup_indepth: yes
           plugin_followup_sections: repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -50,3 +51,9 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 14
